@@ -27,6 +27,7 @@ pageClass: device-page
 ## Notes
 ### Pairing
 Turn off the light switches (no blue light). Press one of the switch buttons for 6 times, and hold on the 6th time for a few seconds. Release when the blue indicators are flashing fast. The device is in pairing mode.
+Alternatively you turn on and off one of the switch buttons 10 times. 
 <!-- Notes END: Do not edit below this line -->
 
 
